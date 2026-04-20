@@ -9,4 +9,5 @@ public :
     
     void printdata(){
         cout<< " << nim " << endl;
-       
+        cout << " << nama" << endl;
+        
