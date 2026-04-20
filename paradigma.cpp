@@ -10,4 +10,7 @@ public :
     void printdata(){
         cout<< " << nim " << endl;
         cout << " << nama" << endl;
-        
+        cout << " << nilai" << endl;
+    }
+}; //batas class
+
