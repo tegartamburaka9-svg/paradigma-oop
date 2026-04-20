@@ -8,3 +8,5 @@ public :
     float nilai;
     
     void printdata(){
+        cout<< " << nim " << endl;
+       
