@@ -7,4 +7,4 @@ public :
     string nama;
     float nilai;
     
-    
+    void printdata(){
